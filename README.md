@@ -1,4 +1,3 @@
-# ResumeMaker
 # Resume Maker Application
 
 ## Overview
@@ -44,5 +43,3 @@ The Resume Maker Application is a web-based tool that I developed using Django, 
 - Collaboration features to allow multiple users to collaborate on a single resume.
 
 Feel free to visit the [GitHub repository](#[https://github.com/AbhiMisRaw/ResumeMaker]) to explore the source code and contribute to the project.
-
-**Note:** Replace `#your-github-link-here` with the actual link to your GitHub repository.
